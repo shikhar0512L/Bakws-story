@@ -207,6 +207,6 @@ And then, where her tears had fallen, something arose out of the dark, something
 
 Green.
 
-moral : Do not read the story!
+moral : Do not read the story! Bakwas hai
 
 THE END
